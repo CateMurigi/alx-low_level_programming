@@ -1,4 +1,8 @@
-#!/bin/bash
+/*
+ * main function
+ * return 0 always
+ */
+
 #include <stdio.h>
 
 int main(void){
