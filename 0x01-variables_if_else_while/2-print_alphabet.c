@@ -10,8 +10,7 @@ int main(void)
 
 	for (ch = 'a'; ch <= 'c'; ch++)
 	{
-		putchar("%c", ch);
+		putchar("%c\n", ch);
 	}
-	purchar('\n')
 	return (0);
 }
