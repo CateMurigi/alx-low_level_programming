@@ -10,8 +10,8 @@ int main(void)
 
 	for (x = 0; x < 10; x++)
 	{
-		purchar(x);
+		putchar(x);
 	}
-	purchar('\n');
+	putchar('\n');
 	return (0);
 }
