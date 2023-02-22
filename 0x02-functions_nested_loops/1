@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * times_table - prints the table
  * main - entry point
+ * times_table - prints the table
  *
  * Return: Always 0
  */
