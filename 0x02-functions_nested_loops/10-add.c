@@ -4,8 +4,7 @@
  * add - adds two numbers
  * @a: parameter 1
  * @b: parameter 2
- * 
- * return: sum
+ * Return: a + b = sum
  */
 
 int add(int a, int b)
